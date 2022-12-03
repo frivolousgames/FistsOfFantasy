@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: e1cea5a746f8308418201c22636ae2b7
+timeCreated: 1536858098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tambo_02_0
+    21300002: tambo_02_1
+    21300004: tambo_02_2
+    21300006: tambo_02_3
+    21300008: tambo_02_4
+    21300010: tambo_02_5
+    21300012: tambo_02_6
+    21300014: tambo_02_7
+    21300016: tambo_02_8
+    21300018: tambo_02_9
+    21300020: tambo_02_10
+    21300022: tambo_02_11
+    21300024: tambo_02_12
+    21300026: tambo_02_13
+    21300028: tambo_02_14
+    21300030: tambo_02_15
+    21300032: tambo_02_16
+    21300034: tambo_02_17
+    21300036: tambo_02_18
+    21300038: tambo_02_19
+    21300040: tambo_02_20
+    21300042: tambo_02_21
+    21300044: tambo_02_22
+    21300046: tambo_02_23
+    21300048: tambo_02_24
+    21300050: tambo_02_25
+    21300052: tambo_02_26
+    21300054: tambo_02_27
+    21300056: tambo_02_28
+    21300058: tambo_02_29
+    21300060: tambo_02_30
+    21300062: tambo_02_31
+    21300064: tambo_02_32
+    21300066: tambo_02_33
+    21300068: tambo_02_34
+    21300070: tambo_02_35
+    21300072: tambo_02_36
+    21300074: tambo_02_37
+    21300076: tambo_02_38
+    21300078: tambo_02_39
+    21300080: tambo_02_40
+    21300082: tambo_02_41
+    21300084: tambo_02_42
+    21300086: tambo_02_43
+    21300088: tambo_02_44
+    21300090: tambo_02_45
+    21300092: tambo_02_46
+    21300094: tambo_02_47
+    21300096: tambo_02_48
+    21300098: tambo_02_49
+    21300100: tambo_02_50
+    21300102: tambo_02_51
+    21300104: tambo_02_52
+    21300106: tambo_02_53
+    21300108: tambo_02_54
+    21300110: tambo_02_55
+    21300112: tambo_02_56
+    21300114: tambo_02_57
+    21300116: tambo_02_58
+    21300118: tambo_02_59
+    21300120: tambo_02_60
+    21300122: tambo_02_61
+    21300124: tambo_02_62
+    21300126: tambo_02_63
+    21300128: tambo_02_64
+    21300130: tambo_02_65
+    21300132: tambo_02_66
+    21300134: tambo_02_67
+    21300136: tambo_02_68
+    21300138: tambo_02_69
+    21300140: tambo_02_70
+    21300142: tambo_02_71
+    21300144: tambo_02_72
+    21300146: tambo_02_73
+    21300148: tambo_02_74
+    21300150: tambo_02_75
+    21300152: tambo_02_76
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tambo_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_9
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_10
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5778
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_15
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_16
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_17
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_18
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_19
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_20
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_21
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4815
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_24
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_26
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_27
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_28
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_29
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_30
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_31
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_32
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3852
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_35
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_36
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_37
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_38
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_39
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_40
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_41
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_42
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_43
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2889
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_46
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_47
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_48
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_49
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_50
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_51
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_52
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_53
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_54
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1926
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_56
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_58
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_59
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_60
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_61
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_62
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_63
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_64
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_65
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 963
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_68
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_69
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_70
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_71
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_72
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_73
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_74
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_75
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tambo_02_76
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 700
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: bethany
+  assetBundleVariant: 

@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: f1112036fa5d2e148bfe2358e0039e86
+timeCreated: 1537382290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bass Smash_0
+    21300002: Bass Smash_1
+    21300004: Bass Smash_2
+    21300006: Bass Smash_3
+    21300008: Bass Smash_4
+    21300010: Bass Smash_5
+    21300012: Bass Smash_6
+    21300014: Bass Smash_7
+    21300016: Bass Smash_8
+    21300018: Bass Smash_9
+    21300020: Bass Smash_10
+    21300022: Bass Smash_11
+    21300024: Bass Smash_12
+    21300026: Bass Smash_13
+    21300028: Bass Smash_14
+    21300030: Bass Smash_15
+    21300032: Bass Smash_16
+    21300034: Bass Smash_17
+    21300036: Bass Smash_18
+    21300038: Bass Smash_19
+    21300040: Bass Smash_20
+    21300042: Bass Smash_21
+    21300044: Bass Smash_22
+    21300046: Bass Smash_23
+    21300048: Bass Smash_24
+    21300050: Bass Smash_25
+    21300052: Bass Smash_26
+    21300054: Bass Smash_27
+    21300056: Bass Smash_28
+    21300058: Bass Smash_29
+    21300060: Bass Smash_30
+    21300062: Bass Smash_31
+    21300064: Bass Smash_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bass Smash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_1
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_2
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_3
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_4
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_5
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_6
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 4560
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_8
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_9
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_10
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_11
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_12
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_13
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 3420
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_15
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_16
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_17
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_18
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_19
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_20
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 2280
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_22
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_23
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_24
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_25
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_26
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_27
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 1140
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_29
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_30
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_31
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 0
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bass Smash_32
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 0
+        width: 1140
+        height: 1140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: brad
+  assetBundleVariant: 

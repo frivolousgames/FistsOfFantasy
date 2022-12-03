@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: b7f706355468f3f4bb55227b97a67d19
+timeCreated: 1536190575
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mic Shot_0
+    21300002: Mic Shot_1
+    21300004: Mic Shot_2
+    21300006: Mic Shot_3
+    21300008: Mic Shot_4
+    21300010: Mic Shot_5
+    21300012: Mic Shot_6
+    21300014: Mic Shot_7
+    21300016: Mic Shot_8
+    21300018: Mic Shot_9
+    21300020: Mic Shot_10
+    21300022: Mic Shot_11
+    21300024: Mic Shot_12
+    21300026: Mic Shot_13
+    21300028: Mic Shot_14
+    21300030: Mic Shot_15
+    21300032: Mic Shot_16
+    21300034: Mic Shot_17
+    21300036: Mic Shot_18
+    21300038: Mic Shot_19
+    21300040: Mic Shot_20
+    21300042: Mic Shot_21
+    21300044: Mic Shot_22
+    21300046: Mic Shot_23
+    21300048: Mic Shot_24
+    21300050: Mic Shot_25
+    21300052: Mic Shot_26
+    21300054: Mic Shot_27
+    21300056: Mic Shot_28
+    21300058: Mic Shot_29
+    21300060: Mic Shot_30
+    21300062: Mic Shot_31
+    21300064: Mic Shot_32
+    21300066: Mic Shot_33
+    21300068: Mic Shot_34
+    21300070: Mic Shot_35
+    21300072: Mic Shot_36
+    21300074: Mic Shot_37
+    21300076: Mic Shot_38
+    21300078: Mic Shot_39
+    21300080: Mic Shot_40
+    21300082: Mic Shot_41
+    21300084: Mic Shot_42
+    21300086: Mic Shot_43
+    21300088: Mic Shot_44
+    21300090: Mic Shot_45
+    21300092: Mic Shot_46
+    21300094: Mic Shot_47
+    21300096: Mic Shot_48
+    21300098: Mic Shot_49
+    21300100: Mic Shot_50
+    21300102: Mic Shot_51
+    21300104: Mic Shot_52
+    21300106: Mic Shot_53
+    21300108: Mic Shot_54
+    21300110: Mic Shot_55
+    21300112: Mic Shot_56
+    21300114: Mic Shot_57
+    21300116: Mic Shot_58
+    21300118: Mic Shot_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mic Shot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3504
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_12
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_13
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3066
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_18
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2628
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_25
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_26
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2190
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_32
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_33
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_34
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1752
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_39
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_41
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1314
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_46
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_48
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 876
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_51
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_52
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_53
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_55
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 438
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_58
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mic Shot_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: bethany
+  assetBundleVariant: 

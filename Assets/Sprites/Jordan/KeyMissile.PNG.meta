@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 563b8b3077e4c684393665fb85baa686
+timeCreated: 1544119653
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KeyMissile_0
+    21300002: KeyMissile_1
+    21300004: KeyMissile_2
+    21300006: KeyMissile_3
+    21300008: KeyMissile_4
+    21300010: KeyMissile_5
+    21300012: KeyMissile_6
+    21300014: KeyMissile_7
+    21300016: KeyMissile_8
+    21300018: KeyMissile_9
+    21300020: KeyMissile_10
+    21300022: KeyMissile_11
+    21300024: KeyMissile_12
+    21300026: KeyMissile_13
+    21300028: KeyMissile_14
+    21300030: KeyMissile_15
+    21300032: KeyMissile_16
+    21300034: KeyMissile_17
+    21300036: KeyMissile_18
+    21300038: KeyMissile_19
+    21300040: KeyMissile_20
+    21300042: KeyMissile_21
+    21300044: KeyMissile_22
+    21300046: KeyMissile_23
+    21300048: KeyMissile_24
+    21300050: KeyMissile_25
+    21300052: KeyMissile_26
+    21300054: KeyMissile_27
+    21300056: KeyMissile_28
+    21300058: KeyMissile_29
+    21300060: KeyMissile_30
+    21300062: KeyMissile_31
+    21300064: KeyMissile_32
+    21300066: KeyMissile_33
+    21300068: KeyMissile_34
+    21300070: KeyMissile_35
+    21300072: KeyMissile_36
+    21300074: KeyMissile_37
+    21300076: KeyMissile_38
+    21300078: KeyMissile_39
+    21300080: KeyMissile_40
+    21300082: KeyMissile_41
+    21300084: KeyMissile_42
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeyMissile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4986
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_12
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_13
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_18
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_25
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_26
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_32
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_33
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_34
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_39
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_41
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KeyMissile_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: jordan
+  assetBundleVariant: 

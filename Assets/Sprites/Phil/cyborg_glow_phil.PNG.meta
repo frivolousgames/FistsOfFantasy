@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: ab26d252b060e8944b6c3aa8296388da
+timeCreated: 1544464912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cyborg_glow_phil_0
+    21300002: cyborg_glow_phil_1
+    21300004: cyborg_glow_phil_2
+    21300006: cyborg_glow_phil_3
+    21300008: cyborg_glow_phil_4
+    21300010: cyborg_glow_phil_5
+    21300012: cyborg_glow_phil_6
+    21300014: cyborg_glow_phil_7
+    21300016: cyborg_glow_phil_8
+    21300018: cyborg_glow_phil_9
+    21300020: cyborg_glow_phil_10
+    21300022: cyborg_glow_phil_11
+    21300024: cyborg_glow_phil_12
+    21300026: cyborg_glow_phil_13
+    21300028: cyborg_glow_phil_14
+    21300030: cyborg_glow_phil_15
+    21300032: cyborg_glow_phil_16
+    21300034: cyborg_glow_phil_17
+    21300036: cyborg_glow_phil_18
+    21300038: cyborg_glow_phil_19
+    21300040: cyborg_glow_phil_20
+    21300042: cyborg_glow_phil_21
+    21300044: cyborg_glow_phil_22
+    21300046: cyborg_glow_phil_23
+    21300048: cyborg_glow_phil_24
+    21300050: cyborg_glow_phil_25
+    21300052: cyborg_glow_phil_26
+    21300054: cyborg_glow_phil_27
+    21300056: cyborg_glow_phil_28
+    21300058: cyborg_glow_phil_29
+    21300060: cyborg_glow_phil_30
+    21300062: cyborg_glow_phil_31
+    21300064: cyborg_glow_phil_32
+    21300066: cyborg_glow_phil_33
+    21300068: cyborg_glow_phil_34
+    21300070: cyborg_glow_phil_35
+    21300072: cyborg_glow_phil_36
+    21300074: cyborg_glow_phil_37
+    21300076: cyborg_glow_phil_38
+    21300078: cyborg_glow_phil_39
+    21300080: cyborg_glow_phil_40
+    21300082: cyborg_glow_phil_41
+    21300084: cyborg_glow_phil_42
+    21300086: cyborg_glow_phil_43
+    21300088: cyborg_glow_phil_44
+    21300090: cyborg_glow_phil_45
+    21300092: cyborg_glow_phil_46
+    21300094: cyborg_glow_phil_47
+    21300096: cyborg_glow_phil_48
+    21300098: cyborg_glow_phil_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyborg_glow_phil_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_8
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4155
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_12
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_13
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_15
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_16
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_17
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3324
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_22
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_24
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_25
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_26
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2493
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_31
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_32
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_33
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_34
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_35
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1662
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_40
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_41
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_42
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_43
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_44
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 831
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_48
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cyborg_glow_phil_49
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: phil
+  assetBundleVariant: 

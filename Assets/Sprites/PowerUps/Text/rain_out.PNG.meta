@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: b89a456cbe3b4bc4aa63935997ef82bc
+timeCreated: 1551099256
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rain_out_0
+    21300002: rain_out_1
+    21300004: rain_out_2
+    21300006: rain_out_3
+    21300008: rain_out_4
+    21300010: rain_out_5
+    21300012: rain_out_6
+    21300014: rain_out_7
+    21300016: rain_out_8
+    21300018: rain_out_9
+    21300020: rain_out_10
+    21300022: rain_out_11
+    21300024: rain_out_12
+    21300026: rain_out_13
+    21300028: rain_out_14
+    21300030: rain_out_15
+    21300032: rain_out_16
+    21300034: rain_out_17
+    21300036: rain_out_18
+    21300038: rain_out_19
+    21300040: rain_out_20
+    21300042: rain_out_21
+    21300044: rain_out_22
+    21300046: rain_out_23
+    21300048: rain_out_24
+    21300050: rain_out_25
+    21300052: rain_out_26
+    21300054: rain_out_27
+    21300056: rain_out_28
+    21300058: rain_out_29
+    21300060: rain_out_30
+    21300062: rain_out_31
+    21300064: rain_out_32
+    21300066: rain_out_33
+    21300068: rain_out_34
+    21300070: rain_out_35
+    21300072: rain_out_36
+    21300074: rain_out_37
+    21300076: rain_out_38
+    21300078: rain_out_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_out_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2700
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2700
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2700
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2400
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_6
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2400
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2400
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_9
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2100
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_10
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2100
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_11
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2100
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_13
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1800
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_14
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1800
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_15
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1800
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1500
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_18
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1500
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_19
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1500
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1200
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1200
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1200
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_25
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 900
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_26
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 900
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 900
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 600
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_30
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 600
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_31
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 600
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_33
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 300
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_34
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 300
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_35
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 300
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_37
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_38
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rain_out_39
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 875
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

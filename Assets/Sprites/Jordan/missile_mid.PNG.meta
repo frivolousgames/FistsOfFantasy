@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: a61bd29c6b9f6544bb94510b64533f94
+timeCreated: 1544223967
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile_mid_0
+    21300002: missile_mid_1
+    21300004: missile_mid_2
+    21300006: missile_mid_3
+    21300008: missile_mid_4
+    21300010: missile_mid_5
+    21300012: missile_mid_6
+    21300014: missile_mid_7
+    21300016: missile_mid_8
+    21300018: missile_mid_9
+    21300020: missile_mid_10
+    21300022: missile_mid_11
+    21300024: missile_mid_12
+    21300026: missile_mid_13
+    21300028: missile_mid_14
+    21300030: missile_mid_15
+    21300032: missile_mid_16
+    21300034: missile_mid_17
+    21300036: missile_mid_18
+    21300038: missile_mid_19
+    21300040: missile_mid_20
+    21300042: missile_mid_21
+    21300044: missile_mid_22
+    21300046: missile_mid_23
+    21300048: missile_mid_24
+    21300050: missile_mid_25
+    21300052: missile_mid_26
+    21300054: missile_mid_27
+    21300056: missile_mid_28
+    21300058: missile_mid_29
+    21300060: missile_mid_30
+    21300062: missile_mid_31
+    21300064: missile_mid_32
+    21300066: missile_mid_33
+    21300068: missile_mid_34
+    21300070: missile_mid_35
+    21300072: missile_mid_36
+    21300074: missile_mid_37
+    21300076: missile_mid_38
+    21300078: missile_mid_39
+    21300080: missile_mid_40
+    21300082: missile_mid_41
+    21300084: missile_mid_42
+    21300086: missile_mid_43
+    21300088: missile_mid_44
+    21300090: missile_mid_45
+    21300092: missile_mid_46
+    21300094: missile_mid_47
+    21300096: missile_mid_48
+    21300098: missile_mid_49
+    21300100: missile_mid_50
+    21300102: missile_mid_51
+    21300104: missile_mid_52
+    21300106: missile_mid_53
+    21300108: missile_mid_54
+    21300110: missile_mid_55
+    21300112: missile_mid_56
+    21300114: missile_mid_57
+    21300116: missile_mid_58
+    21300118: missile_mid_59
+    21300120: missile_mid_60
+    21300122: missile_mid_61
+    21300124: missile_mid_62
+    21300126: missile_mid_63
+    21300128: missile_mid_64
+    21300130: missile_mid_65
+    21300132: missile_mid_66
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missile_mid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_15
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_29
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_35
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_38
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_39
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_49
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_59
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_63
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_mid_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: jordan
+  assetBundleVariant: 

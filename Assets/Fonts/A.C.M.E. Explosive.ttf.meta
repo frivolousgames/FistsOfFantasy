@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b3e1abd2bf01e047b6e64f77c4a2716
+timeCreated: 1545962878
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A.C.M.E. Explosive
+  fontNames:
+  - A.C.M.E. Explosive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

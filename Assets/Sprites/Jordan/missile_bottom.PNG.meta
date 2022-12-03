@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 339de8fa5bb1a6341b48ad8196c6ada9
+timeCreated: 1544223956
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile_bottom_0
+    21300002: missile_bottom_1
+    21300004: missile_bottom_2
+    21300006: missile_bottom_3
+    21300008: missile_bottom_4
+    21300010: missile_bottom_5
+    21300012: missile_bottom_6
+    21300014: missile_bottom_7
+    21300016: missile_bottom_8
+    21300018: missile_bottom_9
+    21300020: missile_bottom_10
+    21300022: missile_bottom_11
+    21300024: missile_bottom_12
+    21300026: missile_bottom_13
+    21300028: missile_bottom_14
+    21300030: missile_bottom_15
+    21300032: missile_bottom_16
+    21300034: missile_bottom_17
+    21300036: missile_bottom_18
+    21300038: missile_bottom_19
+    21300040: missile_bottom_20
+    21300042: missile_bottom_21
+    21300044: missile_bottom_22
+    21300046: missile_bottom_23
+    21300048: missile_bottom_24
+    21300050: missile_bottom_25
+    21300052: missile_bottom_26
+    21300054: missile_bottom_27
+    21300056: missile_bottom_28
+    21300058: missile_bottom_29
+    21300060: missile_bottom_30
+    21300062: missile_bottom_31
+    21300064: missile_bottom_32
+    21300066: missile_bottom_33
+    21300068: missile_bottom_34
+    21300070: missile_bottom_35
+    21300072: missile_bottom_36
+    21300074: missile_bottom_37
+    21300076: missile_bottom_38
+    21300078: missile_bottom_39
+    21300080: missile_bottom_40
+    21300082: missile_bottom_41
+    21300084: missile_bottom_42
+    21300086: missile_bottom_43
+    21300088: missile_bottom_44
+    21300090: missile_bottom_45
+    21300092: missile_bottom_46
+    21300094: missile_bottom_47
+    21300096: missile_bottom_48
+    21300098: missile_bottom_49
+    21300100: missile_bottom_50
+    21300102: missile_bottom_51
+    21300104: missile_bottom_52
+    21300106: missile_bottom_53
+    21300108: missile_bottom_54
+    21300110: missile_bottom_55
+    21300112: missile_bottom_56
+    21300114: missile_bottom_57
+    21300116: missile_bottom_58
+    21300118: missile_bottom_59
+    21300120: missile_bottom_60
+    21300122: missile_bottom_61
+    21300124: missile_bottom_62
+    21300126: missile_bottom_63
+    21300128: missile_bottom_64
+    21300130: missile_bottom_65
+    21300132: missile_bottom_66
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missile_bottom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_15
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_29
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_35
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_38
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_39
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_49
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_59
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_63
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_bottom_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: jordan
+  assetBundleVariant: 

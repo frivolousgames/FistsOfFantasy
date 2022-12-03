@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 3c539b8328c13da459d7e6bbc0c3a4ac
+timeCreated: 1539277109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knockdown_air_0
+    21300002: knockdown_air_1
+    21300004: knockdown_air_2
+    21300006: knockdown_air_3
+    21300008: knockdown_air_4
+    21300010: knockdown_air_5
+    21300012: knockdown_air_6
+    21300014: knockdown_air_7
+    21300016: knockdown_air_8
+    21300018: knockdown_air_9
+    21300020: knockdown_air_10
+    21300022: knockdown_air_11
+    21300024: knockdown_air_12
+    21300026: knockdown_air_13
+    21300028: knockdown_air_14
+    21300030: knockdown_air_15
+    21300032: knockdown_air_16
+    21300034: knockdown_air_17
+    21300036: knockdown_air_18
+    21300038: knockdown_air_19
+    21300040: knockdown_air_20
+    21300042: knockdown_air_21
+    21300044: knockdown_air_22
+    21300046: knockdown_air_23
+    21300048: knockdown_air_24
+    21300050: knockdown_air_25
+    21300052: knockdown_air_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knockdown_air_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_1
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_2
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_3
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_4
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_5
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 3312
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_7
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_8
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_9
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_10
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_11
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 2484
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_13
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_14
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_15
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_16
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_17
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 1656
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_20
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_21
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_22
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_23
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 828
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_25
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knockdown_air_26
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 0
+        width: 785
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

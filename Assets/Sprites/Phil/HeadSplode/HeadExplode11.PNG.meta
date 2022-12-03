@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 57e8e8f1ec5db4e48a09f35cbb7b004e
+timeCreated: 1545673052
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeadExplode11_0
+    21300002: HeadExplode11_1
+    21300004: HeadExplode11_2
+    21300006: HeadExplode11_3
+    21300008: HeadExplode11_4
+    21300010: HeadExplode11_5
+    21300012: HeadExplode11_6
+    21300014: HeadExplode11_7
+    21300016: HeadExplode11_8
+    21300018: HeadExplode11_9
+    21300020: HeadExplode11_10
+    21300022: HeadExplode11_11
+    21300024: HeadExplode11_12
+    21300026: HeadExplode11_13
+    21300028: HeadExplode11_14
+    21300030: HeadExplode11_15
+    21300032: HeadExplode11_16
+    21300034: HeadExplode11_17
+    21300036: HeadExplode11_18
+    21300038: HeadExplode11_19
+    21300040: HeadExplode11_20
+    21300042: HeadExplode11_21
+    21300044: HeadExplode11_22
+    21300046: HeadExplode11_23
+    21300048: HeadExplode11_24
+    21300050: HeadExplode11_25
+    21300052: HeadExplode11_26
+    21300054: HeadExplode11_27
+    21300056: HeadExplode11_28
+    21300058: HeadExplode11_29
+    21300060: HeadExplode11_30
+    21300062: HeadExplode11_31
+    21300064: HeadExplode11_32
+    21300066: HeadExplode11_33
+    21300068: HeadExplode11_34
+    21300070: HeadExplode11_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadExplode11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_1
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_2
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_3
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_4
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_5
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 6550
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_7
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_8
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_9
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_10
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_11
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 5240
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_13
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_14
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_15
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_16
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_17
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 3930
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_19
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_20
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_21
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_22
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_23
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 2620
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_25
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_26
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_27
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_28
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_29
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 1310
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_31
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_32
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_33
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_34
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HeadExplode11_35
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 0
+        width: 1310
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: ac7a6a7128310904181de1a155115782
+timeCreated: 1544223979
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: missile_top_0
+    21300002: missile_top_1
+    21300004: missile_top_2
+    21300006: missile_top_3
+    21300008: missile_top_4
+    21300010: missile_top_5
+    21300012: missile_top_6
+    21300014: missile_top_7
+    21300016: missile_top_8
+    21300018: missile_top_9
+    21300020: missile_top_10
+    21300022: missile_top_11
+    21300024: missile_top_12
+    21300026: missile_top_13
+    21300028: missile_top_14
+    21300030: missile_top_15
+    21300032: missile_top_16
+    21300034: missile_top_17
+    21300036: missile_top_18
+    21300038: missile_top_19
+    21300040: missile_top_20
+    21300042: missile_top_21
+    21300044: missile_top_22
+    21300046: missile_top_23
+    21300048: missile_top_24
+    21300050: missile_top_25
+    21300052: missile_top_26
+    21300054: missile_top_27
+    21300056: missile_top_28
+    21300058: missile_top_29
+    21300060: missile_top_30
+    21300062: missile_top_31
+    21300064: missile_top_32
+    21300066: missile_top_33
+    21300068: missile_top_34
+    21300070: missile_top_35
+    21300072: missile_top_36
+    21300074: missile_top_37
+    21300076: missile_top_38
+    21300078: missile_top_39
+    21300080: missile_top_40
+    21300082: missile_top_41
+    21300084: missile_top_42
+    21300086: missile_top_43
+    21300088: missile_top_44
+    21300090: missile_top_45
+    21300092: missile_top_46
+    21300094: missile_top_47
+    21300096: missile_top_48
+    21300098: missile_top_49
+    21300100: missile_top_50
+    21300102: missile_top_51
+    21300104: missile_top_52
+    21300106: missile_top_53
+    21300108: missile_top_54
+    21300110: missile_top_55
+    21300112: missile_top_56
+    21300114: missile_top_57
+    21300116: missile_top_58
+    21300118: missile_top_59
+    21300120: missile_top_60
+    21300122: missile_top_61
+    21300124: missile_top_62
+    21300126: missile_top_63
+    21300128: missile_top_64
+    21300130: missile_top_65
+    21300132: missile_top_66
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missile_top_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2142
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_15
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1785
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_25
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_27
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_29
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1428
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_35
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_38
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_39
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1071
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_45
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_49
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 714
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_51
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_55
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_56
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_57
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_59
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 357
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_63
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_65
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: missile_top_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: jordan
+  assetBundleVariant: 

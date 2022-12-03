@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 43dd06d0b64182e48841f326e274f4b5
+timeCreated: 1545938997
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BassGroove03_0
+    21300002: BassGroove03_1
+    21300004: BassGroove03_2
+    21300006: BassGroove03_3
+    21300008: BassGroove03_4
+    21300010: BassGroove03_5
+    21300012: BassGroove03_6
+    21300014: BassGroove03_7
+    21300016: BassGroove03_8
+    21300018: BassGroove03_9
+    21300020: BassGroove03_10
+    21300022: BassGroove03_11
+    21300024: BassGroove03_12
+    21300026: BassGroove03_13
+    21300028: BassGroove03_14
+    21300030: BassGroove03_15
+    21300032: BassGroove03_16
+    21300034: BassGroove03_17
+    21300036: BassGroove03_18
+    21300038: BassGroove03_19
+    21300040: BassGroove03_20
+    21300042: BassGroove03_21
+    21300044: BassGroove03_22
+    21300046: BassGroove03_23
+    21300048: BassGroove03_24
+    21300050: BassGroove03_25
+    21300052: BassGroove03_26
+    21300054: BassGroove03_27
+    21300056: BassGroove03_28
+    21300058: BassGroove03_29
+    21300060: BassGroove03_30
+    21300062: BassGroove03_31
+    21300064: BassGroove03_32
+    21300066: BassGroove03_33
+    21300068: BassGroove03_34
+    21300070: BassGroove03_35
+    21300072: BassGroove03_36
+    21300074: BassGroove03_37
+    21300076: BassGroove03_38
+    21300078: BassGroove03_39
+    21300080: BassGroove03_40
+    21300082: BassGroove03_41
+    21300084: BassGroove03_42
+    21300086: BassGroove03_43
+    21300088: BassGroove03_44
+    21300090: BassGroove03_45
+    21300092: BassGroove03_46
+    21300094: BassGroove03_47
+    21300096: BassGroove03_48
+    21300098: BassGroove03_49
+    21300100: BassGroove03_50
+    21300102: BassGroove03_51
+    21300104: BassGroove03_52
+    21300106: BassGroove03_53
+    21300108: BassGroove03_54
+    21300110: BassGroove03_55
+    21300112: BassGroove03_56
+    21300114: BassGroove03_57
+    21300116: BassGroove03_58
+    21300118: BassGroove03_59
+    21300120: BassGroove03_60
+    21300122: BassGroove03_61
+    21300124: BassGroove03_62
+    21300126: BassGroove03_63
+    21300128: BassGroove03_64
+    21300130: BassGroove03_65
+    21300132: BassGroove03_66
+    21300134: BassGroove03_67
+    21300136: BassGroove03_68
+    21300138: BassGroove03_69
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BassGroove03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_2
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_3
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_4
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_5
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_6
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_7
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_8
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_9
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 6558
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_12
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_13
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_14
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_15
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_16
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_17
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_18
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_19
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 5465
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_21
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_22
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_23
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_24
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_25
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_26
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_27
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_28
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_29
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 4372
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_31
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_32
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_33
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_34
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_35
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_36
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_37
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_38
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_39
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 3279
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_41
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_42
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_43
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_44
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_45
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_46
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_47
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_48
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_49
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 2186
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_51
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_52
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_53
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_54
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_55
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_56
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_57
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_58
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_59
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 1093
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_61
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_62
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_63
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_64
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_65
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_66
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_67
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_68
+      rect:
+        serializedVersion: 2
+        x: 5944
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BassGroove03_69
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 0
+        width: 743
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: e868f0d725f57994894f5ebf57d99fd9
+timeCreated: 1539368626
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mic_bomb_0
+    21300002: mic_bomb_1
+    21300004: mic_bomb_2
+    21300006: mic_bomb_3
+    21300008: mic_bomb_4
+    21300010: mic_bomb_5
+    21300012: mic_bomb_6
+    21300014: mic_bomb_7
+    21300016: mic_bomb_8
+    21300018: mic_bomb_9
+    21300020: mic_bomb_10
+    21300022: mic_bomb_11
+    21300024: mic_bomb_12
+    21300026: mic_bomb_13
+    21300028: mic_bomb_14
+    21300030: mic_bomb_15
+    21300032: mic_bomb_16
+    21300034: mic_bomb_17
+    21300036: mic_bomb_18
+    21300038: mic_bomb_19
+    21300040: mic_bomb_20
+    21300042: mic_bomb_21
+    21300044: mic_bomb_22
+    21300046: mic_bomb_23
+    21300048: mic_bomb_24
+    21300050: mic_bomb_25
+    21300052: mic_bomb_26
+    21300054: mic_bomb_27
+    21300056: mic_bomb_28
+    21300058: mic_bomb_29
+    21300060: mic_bomb_30
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mic_bomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_2
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_3
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_4
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_5
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_6
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 3252
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_9
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_10
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_11
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_12
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_13
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 2439
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_16
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_17
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_18
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_19
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_20
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 1626
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_23
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_24
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_25
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_26
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_27
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 813
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mic_bomb_30
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 0
+        width: 685
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

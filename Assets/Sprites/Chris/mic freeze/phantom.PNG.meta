@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: d7ddce738149cb1458950c608922fc81
+timeCreated: 1546539780
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: phantom_0
+    21300002: phantom_1
+    21300004: phantom_2
+    21300006: phantom_3
+    21300008: phantom_4
+    21300010: phantom_5
+    21300012: phantom_6
+    21300014: phantom_7
+    21300016: phantom_8
+    21300018: phantom_9
+    21300020: phantom_10
+    21300022: phantom_11
+    21300024: phantom_12
+    21300026: phantom_13
+    21300028: phantom_14
+    21300030: phantom_15
+    21300032: phantom_16
+    21300034: phantom_17
+    21300036: phantom_18
+    21300038: phantom_19
+    21300040: phantom_20
+    21300042: phantom_21
+    21300044: phantom_22
+    21300046: phantom_23
+    21300048: phantom_24
+    21300050: phantom_25
+    21300052: phantom_26
+    21300054: phantom_27
+    21300056: phantom_28
+    21300058: phantom_29
+    21300060: phantom_30
+    21300062: phantom_31
+    21300064: phantom_32
+    21300066: phantom_33
+    21300068: phantom_34
+    21300070: phantom_35
+    21300072: phantom_36
+    21300074: phantom_37
+    21300076: phantom_38
+    21300078: phantom_39
+    21300080: phantom_40
+    21300082: phantom_41
+    21300084: phantom_42
+    21300086: phantom_43
+    21300088: phantom_44
+    21300090: phantom_45
+    21300092: phantom_46
+    21300094: phantom_47
+    21300096: phantom_48
+    21300098: phantom_49
+    21300100: phantom_50
+    21300102: phantom_51
+    21300104: phantom_52
+    21300106: phantom_53
+    21300108: phantom_54
+    21300110: phantom_55
+    21300112: phantom_56
+    21300114: phantom_57
+    21300116: phantom_58
+    21300118: phantom_59
+    21300120: phantom_60
+    21300122: phantom_61
+    21300124: phantom_62
+    21300126: phantom_63
+    21300128: phantom_64
+    21300130: phantom_65
+    21300132: phantom_66
+    21300134: phantom_67
+    21300136: phantom_68
+    21300138: phantom_69
+    21300140: phantom_70
+    21300142: phantom_71
+    21300144: phantom_72
+    21300146: phantom_73
+    21300148: phantom_74
+    21300150: phantom_75
+    21300152: phantom_76
+    21300154: phantom_77
+    21300156: phantom_78
+    21300158: phantom_79
+    21300160: phantom_80
+    21300162: phantom_81
+    21300164: phantom_82
+    21300166: phantom_83
+    21300168: phantom_84
+    21300170: phantom_85
+    21300172: phantom_86
+    21300174: phantom_87
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phantom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_1
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_2
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_3
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_4
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_5
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_6
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_7
+      rect:
+        serializedVersion: 2
+        x: 7294
+        y: 6185
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_9
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_10
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_11
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_12
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_13
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_14
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_15
+      rect:
+        serializedVersion: 2
+        x: 7294
+        y: 4948
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_18
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_19
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_20
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_21
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_22
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_23
+      rect:
+        serializedVersion: 2
+        x: 7294
+        y: 3711
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_25
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_26
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_27
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_28
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_29
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_30
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_31
+      rect:
+        serializedVersion: 2
+        x: 7294
+        y: 2474
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_33
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_34
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_35
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_36
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_37
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_38
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_39
+      rect:
+        serializedVersion: 2
+        x: 7294
+        y: 1237
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_41
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_42
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 0
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phantom_43
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 0
+        width: 1042
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
